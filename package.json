@@ -2,7 +2,7 @@
     "name": "04_chatkit",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://chorzkie.github.io/Chatkit-Plus-React",
+    "homepage": "https://chorzkie.github.io/React_Chatkit",
     "dependencies": {
         "@pusher/chatkit-client": "^1.5.0",
         "gh-pages": "^2.0.1",
