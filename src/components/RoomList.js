@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class RoomList extends Component {
 
   render() {
-    const orderedRooms = [...this.props.rooms].sort((a, b) => a.id - b.id)
+    const orderedRooms = [...this.props.rooms].sort((a, b) => a.id > b.id)
     return (
       <div className="rooms-list">
         <ul>
