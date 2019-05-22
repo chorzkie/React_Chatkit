@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Chatkit/static/css/main.e35367b9.chunk.css",
+    "main.js": "/React_Chatkit/static/js/main.259af89f.chunk.js",
+    "main.js.map": "/React_Chatkit/static/js/main.259af89f.chunk.js.map",
+    "runtime~main.js": "/React_Chatkit/static/js/runtime~main.ff6e1e57.js",
+    "runtime~main.js.map": "/React_Chatkit/static/js/runtime~main.ff6e1e57.js.map",
+    "static/js/2.338adfdb.chunk.js": "/React_Chatkit/static/js/2.338adfdb.chunk.js",
+    "static/js/2.338adfdb.chunk.js.map": "/React_Chatkit/static/js/2.338adfdb.chunk.js.map",
+    "index.html": "/React_Chatkit/index.html",
+    "precache-manifest.46febff6813e24bbf6c7e31e89c112c0.js": "/React_Chatkit/precache-manifest.46febff6813e24bbf6c7e31e89c112c0.js",
+    "service-worker.js": "/React_Chatkit/service-worker.js",
+    "static/css/main.e35367b9.chunk.css.map": "/React_Chatkit/static/css/main.e35367b9.chunk.css.map"
+  }
+}
