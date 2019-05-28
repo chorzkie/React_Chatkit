@@ -107,8 +107,11 @@ export class App extends Component {
   createNewRoom(roomName) {
     this.currentUser.createRoom({
       name: roomName,
-      private: true,
+      private: false,
     })
+      .then( () => {
+        this.getRooms()
+      })
       .catch(err => console.log('Error on creating room; ', err))
   }
 
